@@ -51,6 +51,12 @@ flycheck_*.el
 # network security
 /network-security.data
 
+# straight
+/straight/
+
+# lsp
+.lsp-session-v1
+
 
 ### macOS ###
 # General
