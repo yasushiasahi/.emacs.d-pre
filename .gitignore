@@ -57,6 +57,13 @@ flycheck_*.el
 # lsp
 .lsp-session-v1
 
+.cache/
+.mc-lists.el
+backups/
+company-statistics-cache.el
+projectile-bookmarks.eld
+recentf
+
 
 ### macOS ###
 # General
